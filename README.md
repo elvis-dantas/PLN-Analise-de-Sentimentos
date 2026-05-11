@@ -1,2 +1,2 @@
-﻿# PNL-analise-de-sentimentos
+﻿# PLN-analise-de-sentimentos
 
